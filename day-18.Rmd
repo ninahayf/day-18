@@ -1,8 +1,4 @@
-```
-title: day-18
-author: "Nina Hayford"
-date: "2025-04-08"
-```
+
 
 # Load necessary libraries 
 ```{r}
